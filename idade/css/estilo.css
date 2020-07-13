@@ -1,0 +1,25 @@
+body{
+    margin: auto;
+    padding: 15px;
+    background: rgb(67, 67, 233);
+    font: normal 15pt courier;
+}
+header{
+    color: white;
+    text-align: center;
+}
+section{
+    text-align: center;
+    background: white;
+    border-radius: 10px;    /*deixando as bordas arredondadas */
+    padding: 15px;  /*cria um tipo de margem de todos os cantos*/
+    width: 500px;   /*limita a distância horizontal*/
+    margin: auto;   /*centraliza a section*/
+    box-shadow: rgb(0, 0, 0) 5px 5px 10px;  /*cria uma sombra*/
+
+}
+footer{
+    text-align: center;
+    font-style: italic; /*deixando o estilo da fonte em italico*/
+
+}
